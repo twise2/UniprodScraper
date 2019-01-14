@@ -1,3 +1,5 @@
+*.swp
+array.txt
 # Logs
 logs
 *.log
