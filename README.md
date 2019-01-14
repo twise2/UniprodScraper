@@ -1,5 +1,5 @@
 # UniprotScraper
-Example Scraper to help the girlfriend
+Example Scraper to scrape the uniprot DB
 
 ## How to run
 add list of IDs to uniprotIds.txt --1 per line
