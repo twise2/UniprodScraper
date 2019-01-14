@@ -1,5 +1,6 @@
 *.swp
 array.txt
+uniprotIds.txt
 # Logs
 logs
 *.log
