@@ -1,4 +1,4 @@
-# UniprodScraper
+# UniprotScraper
 Example Scraper to help the girlfriend
 
 ## How to run
