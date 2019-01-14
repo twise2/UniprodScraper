@@ -1,0 +1,23 @@
+{
+  "name": "uniprodscraper",
+  "version": "1.0.0",
+  "description": "Example Scraper to help the girlfriend",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twise2/UniprodScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twise2/UniprodScraper/issues"
+  },
+  "homepage": "https://github.com/twise2/UniprodScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request-promise": "^4.2.2"
+  }
+}
